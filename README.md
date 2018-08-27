@@ -5,7 +5,7 @@ Just a bunch of dotfiles.
 Clone and symlink or install with [ellipsis][ellipsis]:
 
 ```
-$ ellipsis install jmhossler/dotfiles
+$ ellipsis install https://github.com/jmhossler/dotfiles.git
 ```
 
 [ellipsis]: http://ellipsis.sh
